@@ -73,7 +73,7 @@
                 <h2 style="margin-top:-25px;">Arthur Manceau</h2>
                 <p style="margin-top:-10px;">Etudiant en informatique</p>
                 <div>
-                    <a href="https://www.linkedin.com/in/arthur-manceau-474671230/">
+                    <a href="a mettre le lien de linkedin">
                         <img width="35" height="35" style="margin-left: 5px;" src="assets\images\icons2\linkedin2.png">
                     </a>
 
@@ -272,8 +272,8 @@
             <br>
             <h4>6. Organiser son développement professionnel</h4>
             <!-- 
-                Profil Linkedin
-                Profil Twitter  
+                Profile Linkedin
+                Profile Twitter  
             -->
             <br>
             <h4>7. Tableau de synthèse</h4>
@@ -570,7 +570,7 @@
                         <br>
 
                         <div>
-                            <a href="https://www.linkedin.com/in/arthur-manceau-474671230/">
+                            <a href="a mettre le lien linkedin">
                                 <img width="35" height="35" style="margin-left: 5px;" src="assets\images\icons2\linkedin2.png">
                             </a>
 

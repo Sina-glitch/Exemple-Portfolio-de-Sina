@@ -1,4 +1,4 @@
-# Personal Portfolio 🔥
+# Portfolio de Sina 🔥
 > https://rajaprerak.github.io/
 
 :star: Star me on GitHub — it helps!
@@ -9,7 +9,7 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
-#### Home Page
+#### Page d'Acceuil
 <img src="website_images/HomePage.gif" width="900">
 
 

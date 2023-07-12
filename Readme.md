@@ -1,5 +1,5 @@
 # Portfolio de Sina 🔥
-> https://rajaprerak.github.io/
+> https://sina-glitch.github.io/Portfolio-de-Sina/
 
 :star: Star me on GitHub — it helps!
 
@@ -13,12 +13,12 @@
 <img src="website_images/HomePage.gif" width="900">
 
 
-#### About Page
+#### Page A Propos
 <img src="website_images/AboutPage.png" width="900">
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<!-- <img src="website_images/ProjectPage.png" width="900"> -->
   
 
 

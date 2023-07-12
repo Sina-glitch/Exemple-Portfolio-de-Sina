@@ -5,7 +5,7 @@
 
 [![Twitch](https://img.shields.io/badge/maintained-yes-green.svg)](https://www.twitch.tv/looneytvpro)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://sina-glitch.github.io/Portfolio-de-Sina/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](sina.ramezani.off@gmail.com)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
